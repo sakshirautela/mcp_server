@@ -1,0 +1,13 @@
+[project]
+name = "mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.26",
+    "langgraph>=0.5.2",
+    "mcp>=1.10.1",
+    "requirements-py>=1.0.1",
+    "sympy>=1.14.0",
+]
